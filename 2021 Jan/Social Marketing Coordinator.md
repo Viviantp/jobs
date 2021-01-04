@@ -15,8 +15,8 @@ About the company: Bitmark Inc. is a blockchain startup defining property for th
   - Respond to others in these activation points as you wish other companies would respond to you.
   - Establish a unified voice, a human image to the Bitmark brand.
   - Brings insights from our team and work to the public.
-+ Track performance across all marketing / communication tactics, surfacing trends for decision making
-+ Come up with new content across all our channels. You do not need to create the content all yourself, but you must be able to coordinate execution - surfacing things that need to be shared, and preparing the best way to reach people.
++ Track performance across all marketing / communication tactics, surfacing trends for decision making.
++ Come up with new content across all our channels. You do not need to create the content all by yourself, but you must be able to coordinate execution - surfacing things that need to be shared, and preparing the best way to reach people.
 + Always keep content performance in mind. Do not create content for the sake of having more content - always understand how we create reach through it. Think about how our partners, advisors, and ambassadors can help.
 + Research and propose new ideas to support our efforts.
 + Learn how to optimize for social media growth (time of posting, writing style, etc). Run experiments for optimizations.
